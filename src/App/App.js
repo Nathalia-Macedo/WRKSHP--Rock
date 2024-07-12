@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from 'src/Components/Header/Header';
-import AlbumCarousel from 'src/Components/AlbumCarrossel/Carrossel';
-import 'src/App/App.css';
+import Header from '../Components/Header/Header'
+import AlbumCarousel from '../Components/AlbumCarrossel/Carrossel';
+import './App.css';
 
 function App() {
   return (
